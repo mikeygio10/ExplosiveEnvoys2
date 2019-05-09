@@ -1,0 +1,7 @@
+name: ExplosiveEnvoys2
+description: Because non-explosive envoys are too 0.4.0
+originalauthor: GiantQuartz
+secondauthor: HeavenPEDevs
+main: ExplosiveEnvoys\ExplosiveEnvoys
+version: "2.0"
+api: 3.8.2
